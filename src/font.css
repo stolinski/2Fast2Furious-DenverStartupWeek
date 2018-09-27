@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'GrandmasterClash';
+  src: url('./GrandmasterClash.eot');
+  src: url('./GrandmasterClash.woff') format('woff'),
+    url('./GrandmasterClash.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
